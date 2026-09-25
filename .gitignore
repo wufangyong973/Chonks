@@ -19,6 +19,7 @@ mcp-server/node_modules/
 mcp-server/dist/
 
 # direnv / Nix
+temp_auto_push.bat
 .direnv/
 .envrc.local
 result
@@ -40,3 +41,5 @@ node_modules/
 dist/
 .pytest_cache/
 INDEX_REPORT.md
+.gitignore
+branch_structure.json
